@@ -56,7 +56,7 @@ void launch(struct Server *server){
             perror("Error reading buffer...\n");
         }
         FILE *fptr;
-        fptr = fopen("index.html", "r"); 
+        fptr = fopen("../index.html", "r"); 
         if (!fptr) {
             perror("Error opening file...\n");
             exit(EXIT_FAILURE);
