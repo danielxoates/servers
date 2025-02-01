@@ -1,0 +1,1 @@
+/Users/danielcoates/Documents/C/server_own/Rust/server/target/debug/main: /Users/danielcoates/Documents/C/server_own/Rust/server/src/bin/main.rs /Users/danielcoates/Documents/C/server_own/Rust/server/src/lib.rs
